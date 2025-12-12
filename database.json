@@ -1,0 +1,14 @@
+{
+  "users": {},
+  "groups": {},
+  "settings": {
+    "welcome": true,
+    "antilink": false,
+    "antitoxic": false,
+    "antispam": false,
+    "antitagadmin": false,
+    "antipromote": false,
+    "slowmode": 0
+  },
+  "products": []
+}
